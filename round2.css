@@ -1,0 +1,92 @@
+body{
+padding-left: 10%;
+}
+form input[type=text]
+{
+    border-radius: 10px;
+    width: 40%;
+   padding: 12px;
+   color: #ccc;
+   
+}
+
+
+
+
+
+
+
+
+.btn{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.cart{
+     
+    font-family: verdana;
+  
+    margin-right:5%;
+    border:#ccc;
+    border-style:solid;
+    border-radius: 20px;
+    border-style: solid;
+    padding:20px;
+    background:#ccc;
+    color:white;
+    width: 20%;
+    
+    float: right;
+
+}
+
+
+.cart .total p
+{
+    border-top: 3px solid rgb(0, 0, 0);
+}
+.cart .total
+{
+    padding-top: 30px;
+}
+
+
+label
+{
+    padding-bottom: 20px;
+}
+
+
+
+.country{
+   width: 30%;
+   float: left;
+  
+
+}
+.country select
+{
+    border-radius: 10px;
+    width: 40%;
+   padding: 12px;
+   color: #ccc;
+}
+
+.postalcode input[type=text]
+{
+    width : 20%
+}
+#right{
+    float:right;
+margin-right:20%;
+}   
+#left{
+    float:left;
+    margin-left:5%;
+} 
